@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 test 1 
 test 2 with new stuff
 
 sdlsneifnsidjfsleiknglsijdlkfnwliehfes
+=======
+test 1
+>>>>>>> parent of a355b0a... test2
